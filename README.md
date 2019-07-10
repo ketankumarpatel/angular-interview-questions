@@ -1,8 +1,6 @@
 # Angular Interview Questions
 
-A complete guideline to prepare for angular interviews. Also, you can use these questions to verify your expertise in angular. 
-
-
+A complete guideline to prepare for angular interviews. Also, you can use these questions to verify your expertise in angular.
 
 ## Table of Contents
 * [Assess Your Skill Level](#assess-your-skill-level)
